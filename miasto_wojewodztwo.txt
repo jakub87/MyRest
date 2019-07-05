@@ -1,0 +1,218 @@
+Warszawa;mazowieckie
+Krakow;malopolskie
+Lodz;lodzkie
+Wroclaw;dolnoslaskie
+Poznan;wielkopolskie
+Gdansk;pomorskie
+Szczecin;zachodniopomorskie
+Bydgoszcz;kujawsko-pomorskie
+Lublin;lubelskie
+Bialystok;podlaskie
+Katowice;slaskie
+Gdynia;pomorskie
+Czestochowa;slaskie
+Radom;mazowieckie
+Sosnowiec;slaskie
+Torun;kujawsko-pomorskie
+Kielce;swietokrzyskie
+Rzeszow;podkarpackie
+Gliwice;slaskie
+Zabrze;slaskie
+Olsztyn;warminsko-mazurskie
+Bytom;slaskie
+Zielona Gora;lubuskie
+Rybnik;slaskie
+Ruda Slaska;slaskie
+Opole;opolskie
+Tychy;slaskie
+Gorzow Wielkopolski;lubuskie
+Dabrowa Gornicza;slaskie
+Elblag;warminsko-mazurskie
+Plock;mazowieckie
+Walbrzych;dolnoslaskie
+Wloclawek;kujawsko-pomorskie
+Tarnow;malopolskie
+Chorzow;slaskie
+Koszalin;zachodniopomorskie
+Kalisz;wielkopolskie
+Legnica;dolnoslaskie
+Grudziadz;kujawsko-pomorskie
+Jaworzno;slaskie
+Slupsk;pomorskie
+Jastrzebie-Zdroj;slaskie
+Nowy Sacz;malopolskie
+Jelenia Gora;dolnoslaskie
+Siedlce;mazowieckie
+Myslowice;slaskie
+Konin;wielkopolskie
+Piotrkow Trybunalski;lodzkie
+Pila;wielkopolskie
+Inowroclaw;kujawsko-pomorskie
+Lubin;dolnoslaskie
+Ostrow Wielkopolski;wielkopolskie
+Suwalki;podlaskie
+Ostrowiec;swietokrzyskie
+Gniezno;wielkopolskie
+Stargard;zachodniopomorskie
+Glogow;dolnoslaskie
+Siemianowice Slaskie;slaskie
+Pabianice;lodzkie
+Zamosc;lubelskie
+Leszno;wielkopolskie
+Lomza;podlaskie
+Chelm;lubelskie
+Tomaszow Mazowiecki;lodzkie
+Zory;slaskie
+Elk;warminsko-mazurskie
+Stalowa Wola;podkarpackie
+Pruszkow;mazowieckie
+Przemysl;podkarpackie
+Kedzierzyn-Kozle;opolskie
+Tarnowskie Gory;slaskie
+Mielec;podkarpackie
+Tczew;pomorskie
+Belchatow;lodzkie
+Biala;lubelskie
+Swidnica;dolnoslaskie
+Bedzin;slaskie
+Zgierz;lodzkie
+Piekary;slaskie
+Raciborz;slaskie
+Legionowo;mazowieckie
+Ostroleka;mazowieckie
+Swietochlowice;slaskie
+Wejherowo;pomorskie
+Zawiercie;slaskie
+Starachowice;swietokrzyskie
+Rumia;pomorskie
+Skierniewice;lodzkie
+Wodzislaw;slaskie
+Starogard Gdanski;pomorskie
+Pulawy;lubelskie
+Piaseczno;mazowieckie
+Tarnobrzeg;podkarpackie
+Krosno;podkarpackie
+Kolobrzeg;zachodniopomorskie
+Radomsko;lodzkie
+Debica;podkarpackie
+Skarzysko-Kamienna;swietokrzyskie
+Otwock;mazowieckie
+Kutno;lodzkie
+Ciechanow;mazowieckie
+Nysa;opolskie
+Sieradz;lodzkie
+Zdunska Wola;lodzkie
+Swinoujscie;zachodniopomorskie
+Minsk Mazowiecki;mazowieckie
+Mikolow;slaskie
+Szczecinek;zachodniopomorskie
+Zyrardow;mazowieckie
+Chojnice;pomorskie
+Swidnik;lubelskie
+Boleslawiec;dolnoslaskie
+Nowa Sol;lubuskie
+Malbork;pomorskie
+Kwidzyn;pomorskie
+Oswiecim;malopolskie
+Knurow;slaskie
+Sanok;podkarpackie
+Jaroslaw;podkarpackie
+Zary;lubuskie
+Olesnica;dolnoslaskie
+Wolomin;mazowieckie
+Chrzanow;malopolskie
+Sochaczew;mazowieckie
+Sopot;pomorskie
+Zabki;mazowieckie
+Brzeg;opolskie
+Czechowice-Dziedzice;slaskie
+Olkusz;malopolskie
+Lebork;pomorskie
+Jaslo;podkarpackie
+Cieszyn;slaskie
+Krasnik;lubelskie
+Dzierzoniow;dolnoslaskie
+Nowy Targ;malopolskie
+Marki;mazowieckie
+Ilawa;warminsko-mazurskie
+Ostroda;warminsko-mazurskie
+Olawa;dolnoslaskie
+Police;zachodniopomorskie
+Myszkow;slaskie
+Czeladz;slaskie
+Lubon;wielkopolskie
+Zywiec;slaskie
+Mlawa;mazowieckie
+Grodzisk Mazowiecki;mazowieckie
+Pruszcz gdanski;pomorskie
+Swarzedz;wielkopolskie
+Zgorzelec;dolnoslaskie
+Wrzesnia;wielkopolskie
+Augustow;podlaskie
+Lukow;lubelskie
+Bielawa;dolnoslaskie
+Bochnia;malopolskie
+Srem;wielkopolskie
+Gizycko;warminsko-mazurskie
+Krotoszyn;wielkopolskie
+Brodnica;kujawsko-pomorskie
+Nowy Dwor Mazowiecki;mazowieckie
+Lowicz;lodzkie
+Czerwionka-Leszczyny;slaskie
+Gorlice;malopolskie
+Ketrzyn;warminsko-mazurskie
+Zakopane;malopolskie
+Turek;wielkopolskie
+Klodzko;dolnoslaskie
+Wyszkow;mazowieckie
+Bilgoraj;lubelskie
+Jarocin;wielkopolskie
+Zagan;lubuskie
+Swiecie;kujawsko-pomorskie
+Pszczyna;slaskie
+Wagrowiec;wielkopolskie
+Reda;pomorskie
+Walcz;zachodniopomorskie
+Skawina;malopolskie
+Bialogard;zachodniopomorskie
+Lubliniec;slaskie
+Koscian;wielkopolskie
+Koscierzyna;pomorskie
+Sandomierz;swietokrzyskie
+Bartoszyce;warminsko-mazurskie
+Kluczbork;opolskie
+Kobylka;mazowieckie
+Szczytno;warminsko-mazurskie
+Wieliczka;malopolskie
+Sroda Wielkopolska;wielkopolskie
+Jawor;dolnoslaskie
+Swiebodzice;dolnoslaskie
+Piastow;mazowieckie
+Wielun;lodzkie
+Ostrow Mazowiecka;mazowieckie
+Polkowice;dolnoslaskie
+Goleniow;zachodniopomorskie
+Laziska Gorne;slaskie
+Nowa Ruda;dolnoslaskie
+Plonsk;mazowieckie
+Zambrow;podlaskie
+Kolo;wielkopolskie
+Lubartow;lubelskie
+Grajewo;podlaskie
+Swiebodzin;lubuskie
+Mragowo;warminsko-mazurskie
+Rydultowy;slaski
+Aleksandrow Lodzki;lodzkie
+Opoczno;lodzkie
+Dzialdowo;warminsko-mazurskie
+Gryfino;zachodniopomorskie
+Luban;dolnoslaski
+Prudnik;opolskie
+Orzesze;slaskie
+Hajnowka;podlaskie
+Jozefow;mazowieckie
+Jozefow;mazowieckie
+Andrychow;malopolskie
+Rawicz;wielkopolskie
+Gostyn;wielkopolskie
+Trzebinia;malopolskie
